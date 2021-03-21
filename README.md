@@ -2,7 +2,7 @@ Role Name
 =========
 
 A brief description of the role goes here.
-A brief test for sync
+A brief test for sync now
 
 Requirements
 ------------
